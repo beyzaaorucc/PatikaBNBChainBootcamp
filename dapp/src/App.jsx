@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import BookStand from "./components/BookStand";
 import Header from "./components/Header";
-import Information from "./components/Header";
+import Information from "./components/Information";
 import AdminAccount from "./components/AdminAccount";
 import Web3 from "web3";
 const web3 = new Web3();
